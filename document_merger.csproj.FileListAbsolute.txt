@@ -1,0 +1,11 @@
+/Users/vitobertolino/Desktop/document_merger/document_merger/bin/Debug/netcoreapp2.0/document_merger.deps.json
+/Users/vitobertolino/Desktop/document_merger/document_merger/bin/Debug/netcoreapp2.0/document_merger.runtimeconfig.json
+/Users/vitobertolino/Desktop/document_merger/document_merger/bin/Debug/netcoreapp2.0/document_merger.runtimeconfig.dev.json
+/Users/vitobertolino/Desktop/document_merger/document_merger/bin/Debug/netcoreapp2.0/document_merger.dll
+/Users/vitobertolino/Desktop/document_merger/document_merger/bin/Debug/netcoreapp2.0/document_merger.pdb
+/Users/vitobertolino/Desktop/document_merger/document_merger/obj/Debug/netcoreapp2.0/document_merger.csprojResolveAssemblyReference.cache
+/Users/vitobertolino/Desktop/document_merger/document_merger/obj/Debug/netcoreapp2.0/document_merger.csproj.CoreCompileInputs.cache
+/Users/vitobertolino/Desktop/document_merger/document_merger/obj/Debug/netcoreapp2.0/document_merger.AssemblyInfoInputs.cache
+/Users/vitobertolino/Desktop/document_merger/document_merger/obj/Debug/netcoreapp2.0/document_merger.AssemblyInfo.cs
+/Users/vitobertolino/Desktop/document_merger/document_merger/obj/Debug/netcoreapp2.0/document_merger.dll
+/Users/vitobertolino/Desktop/document_merger/document_merger/obj/Debug/netcoreapp2.0/document_merger.pdb
